@@ -22,7 +22,7 @@ Es un proyecto de práctica que crece por fases, siguiendo la ruta Java de DevTa
 
 ## Estado
 
-Fase 1 de 5, paso 1 de 20 completado. El plan está en la [documentación](docs/proyecto-agencia-viajes.md).
+Fase 1 de 5, paso 2 de 20 completado. El plan está en la [documentación](docs/proyecto-agencia-viajes.md).
 
 ## Instrucciones para levantar proyecto
 
