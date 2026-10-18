@@ -26,7 +26,7 @@ Fase 1 de 5, paso 2 de 20 completado. El plan está en la [documentación](docs/
 
 ## Instrucciones para levantar proyecto
 
-Pendiente (paso 3).
+Pendiente (paso 4).
 
 ## Pruebas de aceptación
 1. [ ] Me registro, inicio sesión y reservo 2 pasajeros en una salida con cupo. Veo la reserva Pendiente, con código y total correcto.

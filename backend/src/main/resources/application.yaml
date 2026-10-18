@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: travel-agency-api
+
+  datasource:
+    url: ${POSTGRES_URL:jdbc:postgresql://localhost:5433/agencia}
+    username: ${POSTGRES_USER:user}
+    password: ${POSTGRES_PASSWORD:12345}
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
